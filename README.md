@@ -9,9 +9,11 @@ This repository holds all scripts used to analyze data and create figures presen
 > # Abstract
 > 
 > **Rationale:** Atherosclerotic lesions are known for their cellular heterogeneity, yet the molecular complexity within the cells of human plaques have not been fully assessed. 
+
 > **Objective:** Using single-cell transcriptomics and chromatin accessibility we gained a better understanding of the pathophysiology underlying human atherosclerosis.
+
 > **Methods and Results:** We performed single-cell RNA and single-cell ATAC sequencing on human carotid atherosclerotic plaques to define the cells at play and determine their transcriptomic and epigenomic characteristics. We identified 14 distinct cell populations including endothelial cells, smooth muscle cells, mast cells, B cells, myeloid cells, and T cells and identified multiple cellular activation states and suggested cellular interconversions. Within the endothelial cell population we defined subsets with angiogenic capacity plus clear signs of endothelial to mesenchymal transition. CD4+ and CD8+ T cells showed activation-based subclasses, each with a gradual decline from a cytotoxic to a more quiescent phenotype. Myeloid cells included two populations of pro-inflammatory macrophages showing IL1B or TNF expression as well as a foam cell-like population expressing TREM2 and displaying a fibrosis-promoting phenotype. ATACseq data identified specific transcription factors associated with the myeloid subpopulation and T cell cytokine profiles underlying mutual activation between both cell types. Finally, cardiovascular disease susceptibility genes identified using public GWAS data were particularly enriched in lesional macrophages, endothelial and smooth muscle cells. 
-> 
+
 > **Conclusion:** This study provides a transcriptome-based cellular landscape of human atherosclerotic plaques and highlights cellular plasticity and intercellular communication at the site of disease. This detailed definition of cell communities at play in atherosclerosis will facilitate cell-based mapping of novel interventional targets with direct functional relevance for the treatment of human disease.
 
 

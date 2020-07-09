@@ -18,7 +18,7 @@ This repository holds all scripts used to analyze data and create figures presen
 You can opt to add a figure from the manuscript just to prettify the readme.
 
 **Figure 1: Overall expression of target genes in carotid plaques from the Athero-Express Biobank Study**
-![Overall expression of target genes in carotid plaques from the Athero-Express Biobank Study](https://github.com/AtheroExpress/AE_20200512_COL_MKAVOUSI_MBOS_CHARGE_1000G_CAC/blob/master/bulkRNAseq/AERNA/PLOTS/20200625.TargetExpression_vs_1000genes.png)
+![Overall expression of target genes in carotid plaques from the Athero-Express Biobank Study](FIGURES/20200625.TargetExpression_vs_1000genes.png)
 
 
 

@@ -1,6 +1,6 @@
 # Microanatomy of the human atherosclerotic plaque by single-cell transcriptomics
 
-_Authors_: Marie AC Depuydt, Koen HM Prange, Lotte Slenders, Tiit Örd, Danny Elbersen, Arjan Boltjes, Saskia CA de Jager, Folkert W Asselbergs, Gert Jan de Borst, Einari Aavik, Tapio Lönnberg, Esther Lutgens, Christopher K Glass, Hester M. den Ruijter, Minna U Kaikkonen, Ilze Bot, Bram Slütter, Sander W van der Laan, Seppo Yla-Herttuala, Michal Mokry, Johan Kuiper, Menno PJ de Winther, Gerard Pasterkamp.
+_Authors_: Marie A.C. Depuydt, Koen H.M. Prange, Lotte Slenders, Tiit Örd, Danny Elbersen, Arjan Boltjes, Saskia C.A. de Jager, Folkert W. Asselbergs, Gert Jan de Borst, Einari Aavik, Tapio Lönnberg, Esther Lutgens, Christopher K. Glass, Hester M. den Ruijter, Minna U Kaikkonen, Ilze Bot, Bram Slütter, Sander W. van der Laan, Seppo Yla-Herttuala, Michal Mokry, Johan Kuiper, Menno P.J. de Winther, Gerard Pasterkamp.
 
 
 This repository holds all scripts used to analyze data and create figures presented in ["Microanatomy of the human atherosclerotic plaque by single-cell transcriptomics"]().
@@ -17,24 +17,28 @@ This repository holds all scripts used to analyze data and create figures presen
 > **Conclusion:** This study provides a transcriptome-based cellular landscape of human atherosclerotic plaques and highlights cellular plasticity and intercellular communication at the site of disease. This detailed definition of cell communities at play in atherosclerosis will facilitate cell-based mapping of novel interventional targets with direct functional relevance for the treatment of human disease.
 
 
-You can opt to add a figure from the manuscript just to prettify the readme.
-
-**Figure 1: Overall expression of target genes in carotid plaques from the Athero-Express Biobank Study**
-![Overall expression of target genes in carotid plaques from the Athero-Express Biobank Study](FIGURES/20200625.TargetExpression_vs_1000genes.png)
+**Figure 1: Overall expression of some putative cardiovascular 'target' genes in carotid plaques from the Athero-Express Biobank Study**
+![Overall expression of some putative cardiovascular 'target' genes in carotid plaques from the Athero-Express Biobank Study](FIGURES/20200625.TargetExpression_vs_1000genes.png)
 
 
 
 # Scripts
-These are just examples - should be edited at will
+We shared the scripts we used for the analyses of the data. These are provided as-is: they were not tested on different systems, _et cetera_.
 
-* `script_blabla.r` : used for quality control of scRNAseq data
-* `script_figure.r` : used to create figure 1
+* `SCRIPTS` : this folder contains several scripts used for the analyses.
+
+
+# Data access
+We are working on depositing the data, _i.e._ the single-cell RNAseq and associated experimental/clinical data from the [Athero-Express Biobank Study](http://www.atheroexpress.nl), used for this article to an online repository. As soon as we have more details we will post a placeholder in this `readme`. In the mean time you can contact us through email.
+
+Contact: Sander W. van der Laan<br>
+E-mail: s.w.vanderlaan-2 [at] umcutrecht [dot] nl.
 
 
 --------------
 
 #### The MIT License (MIT)
-##### Copyright (c) 1979-2020
+##### Copyright (c) 1979-2021
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:   
 

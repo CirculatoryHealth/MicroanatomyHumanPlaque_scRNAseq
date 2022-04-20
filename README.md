@@ -29,7 +29,7 @@ We shared the scripts we used for the analyses of the data. These are provided a
 
 
 # Data access
-The data, _i.e._ the single-cell RNAseq and associated experimental/clinical data from the [Athero-Express Biobank Study](http://www.atheroexpress.nl), used for this article are submitted to [DataverseNL and available through here](https://doi.org/10.34894/RWAHLS){target="_blank"}. 
+The data, _i.e._ the single-cell RNAseq and associated experimental/clinical data from the [Athero-Express Biobank Study](http://www.atheroexpress.nl), used for this article are submitted to [DataverseNL and available through here](https://doi.org/10.34894/RWAHLS). 
 
 
 --------------

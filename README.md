@@ -29,10 +29,7 @@ We shared the scripts we used for the analyses of the data. These are provided a
 
 
 # Data access
-We are working on depositing the data, _i.e._ the single-cell RNAseq and associated experimental/clinical data from the [Athero-Express Biobank Study](http://www.atheroexpress.nl), used for this article to an online repository. As soon as we have more details we will post a placeholder in this `readme`. In the mean time you can contact us through email.
-
-Contact: Sander W. van der Laan<br>
-E-mail: s.w.vanderlaan-2 [at] umcutrecht [dot] nl.
+The data, _i.e._ the single-cell RNAseq and associated experimental/clinical data from the [Athero-Express Biobank Study](http://www.atheroexpress.nl), used for this article are submitted to [DataverseNL and available through here](https://doi.org/10.34894/RWAHLS){target="_blank"}. 
 
 
 --------------
